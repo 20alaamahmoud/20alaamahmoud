@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaa</h1>
 <h3 align="center">Computer Science student</h3>
 
-- 🌱 I’m currently learning **Data analysis in Python with pandas**
+- 🌱 I’m currently working on my **Graduation project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/20alaamahmoud](https://github.com/20alaamahmoud)
 
