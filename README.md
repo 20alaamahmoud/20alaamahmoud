@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on my **Computer vision models**
 
-- 👨‍💻 All of my projects are available at [https://github.com/20alaamahmoud](https://github.com/20alaamahmoud)
+- 👨‍💻 All of my projects are available at [https://github.com/20alaamahmoud](https://github.com/20alaamahmoud) or [https://kaggle.com/alaamahmoud2010](https://kaggle.com/alaamahmoud2010)
 
 - 📫 How to reach me **20alaamahmoud@gmail.com**
 
