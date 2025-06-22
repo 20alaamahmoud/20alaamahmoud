@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaa</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🌱 I’m currently a **Data Scientist Intern**
 - 👨‍💻 All of my projects are available at [https://github.com/20alaamahmoud](https://github.com/20alaamahmoud) or [https://kaggle.com/alaamahmoud2010](https://kaggle.com/alaamahmoud2010)
 
 - 📫 How to reach me **20alaamahmoud@gmail.com**
